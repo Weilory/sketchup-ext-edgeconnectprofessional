@@ -1,8 +1,8 @@
 <h1>Sketchup Extension Edge Connect Professional</h1>
 <hr />
-Sketchup Pro 2019
-gem -v #=> 3.0.3
-irb -v #=> 1.0.0 (2018-12-18)
+Sketchup Pro 2019<br />
+gem -v #=> 3.0.3<br />
+irb -v #=> 1.0.0 (2018-12-18)<br />
 ruby -v #=> 2.6.5p114 (2019-10-01 revision 67812) [x64-mingw32]
 <br />
 This extension is a free distribution resource for improving productivity<br />
