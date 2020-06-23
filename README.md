@@ -22,7 +22,6 @@ This extension is a free distribution resource for improving productivity<br />
 <h1>Usage</h1>
 <hr />
 <ol>
-  <h3>https://www.youtube.com/watch?v=8rAF8qulkA8</h3>
   <li>reselect edges that is in the same pannel</li>
   <li>set algorithm: whether to connect from closest to furthest or connect based on bareaing magnitude</li>
   <li>set method: whenter to connect edges in a seperated manner (which means this end point is regardless of next starting point) or connect in a continuous method</li>
