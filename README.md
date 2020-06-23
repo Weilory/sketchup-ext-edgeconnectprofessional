@@ -1,5 +1,8 @@
 <h1>Sketchup Extension Edge Connect Professional</h1>
 <hr />
+
+[![exp](https://github.com/Weilory/sketchup-ext-edgeconnectprofessional/blob/master/docs/gif/exp.gif)](https://www.youtube.com/watch?v=8rAF8qulkA8)
+
 Sketchup Pro 2019<br />
 gem -v #=> 3.0.3<br />
 irb -v #=> 1.0.0 (2018-12-18)<br />
